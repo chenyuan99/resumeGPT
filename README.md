@@ -1,4 +1,4 @@
-# Forkaia ResumeSurvivor
+# ResumeGPT
 
 ## Requirements
 
